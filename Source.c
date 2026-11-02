@@ -1,7 +1,7 @@
-#include <stdio.h>, <locale.h>
+#include <stdio.h>
+#include <locale.h>
 
 int main() {
-	//Вариант 20: Вычислите вещественное значение 1 + 1 / 2 + 1 / 3 + … + 1 / N для целого N, заданного пользователем
 	double res = 0;
 	int N;
 
